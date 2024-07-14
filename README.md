@@ -11,4 +11,6 @@ I have worked with frontend web developments like React and NextJs, I have also 
 Feel free:
 To check me out on [linkedin](www.linkedin.com/in/anthony-momanyi-336735252)<br/>
 or<br/>
-[My Website](https://myportifolio-rho.vercel.app/)
+[My Website](https://myportifolio-rho.vercel.app/)<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAnthonyM)](https://github.com/anuraghazra/github-readme-stats)
