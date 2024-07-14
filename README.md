@@ -9,4 +9,6 @@ I have worked with frontend web developments like React and NextJs, I have also 
 💭 Currently building my software agency.<br/>
 
 Feel free:
-To check me out on linkedin www.linkedin.com/in/anthony-momanyi-336735252 or Website https://myportifolio-rho.vercel.app/
+To check me out on [linkedin] (www.linkedin.com/in/anthony-momanyi-336735252)<br/>
+or<br/>
+[My Website] (https://myportifolio-rho.vercel.app/)
