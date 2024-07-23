@@ -130,13 +130,13 @@ Venture further:
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username="&theme=2077" width="45%" />
-  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=&theme=2077" width="45%" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevAnthonyM"&theme=2077" width="45%" />
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevAnthonyM&theme=2077" width="45%" />
   </div>
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div align="center">    
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=2077" style="height: 300px"  />                                 </div> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAnthonyM&theme=2077" style="height: 300px"  />                                 </div> 
                                               
 <h2 align="left">⚡Activity Graph:</h2>
 <a><img alt="Anthony Momanyi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=francisnjuguna&theme=react-dark&hide_border=true" /></a>    
