@@ -3,17 +3,8 @@
 <h3 align="center">I Am A Passionate Full Stack Software Developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
 <p>I have worked with frontend web developments like React and NextJs, I have also interacted server-side languages like PHP(Laravel) and MYSQL. </p>
 
-Feel free:
-To check me out on [linkedin](www.linkedin.com/in/anthony-momanyi-336735252)<br/>
-or<br/>
-[My Website](https://myportifolio-rho.vercel.app/)<br/>
-
-
 <p align="left" style="max-width:40%">
- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-  👩🏻‍🎓 Studied IT at the University of DKUT, Kenya<br/>
-🎨 Developing Cool Projects my go to pass time, but I also enjoy wireframing, UI & UX and doing Design.<br/>
-💭 Currently building my software agency.<br/>
+ 
   </p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
      <p align="center" color:"red">
@@ -27,20 +18,20 @@ or<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisnjuguna&label=Profile%20views&color=0e75b6&style=flat" alt="francisnjuguna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/liperranqey" target="blank"><img src="https://img.shields.io/twitter/follow/liperranqey?logo=twitter&style=for-the-badge" alt="liperranqey" /></a> </p>
+Here's a revised version without the complex "alchemist" terminology:
 
-- 🔭 I’m currently working on **Full Stack Blog Web App**
+👩🏻‍💻 Innovative Tech Enthusiast: Crafting Digital Marvels<br>
+👩🏻‟🎓 Academic Roots: Studied IT at the esteemed University of DKUT, Kenya<br>
+🎨 Passion's Playground: Developing captivating projects, while indulging in wireframing, UI & UX design<br>
+💭 Building a Software Agency: Embarking on a new venture to revolutionize the tech landscape<br>
+👯 Collaborator's Call: I'm eager to work on **any project** that sparks innovation<br>
+👨‍💻 Digital Showcase: Explore my portfolio Projects at [My Projects](https://myportifolio-rho.vercel.app/)<br>
+- 💬 Inquire about my expertise: **Reactjs, Nodejs, Expressjs, Mongodb, React Native, SQL, Django, Python**<br>
+- 📫 Reach out to me: **anthonymomanyi92@gmail.com**<br>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Any Project**
-
-- 👨‍💻 All of my projects are available at [francisnjuguna.github.io](francisnjuguna.github.io)
-
-- 💬 Ask me about **Reactjs. Nodejs. Expressjs. Mongodb. REact Native Sql. Django. Python.**
-
-- 📫 How to reach me **francisnjugunawanjiku@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+Venture further:
+- [LinkedIn](www.linkedin.com/in/anthony-momanyi-336735252)
+- [My Website](https://myportifolio-rho.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
