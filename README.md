@@ -15,17 +15,17 @@
   
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francisnjuguna&label=Profile%20views&color=0e75b6&style=flat" alt="francisnjuguna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anthonymomanyia&label=Profile%20views&color=0e75b6&style=flat" alt="francisnjuguna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lianreelabs" target="blank"><img src="https://img.shields.io/twitter/follow/lianreelabs?logo=twitter&style=for-the-badge" alt="Lianreelabs" /></a> </p>
 👩🏻‍💻 Innovative Tech Enthusiast: Crafting Digital Marvels<br>
 👩🏻‟🎓 Academic Roots: Studied IT at the esteemed University of DKUT, Kenya<br>
 🎨 Passion's Playground: Developing captivating projects, while indulging in wireframing, UI & UX design<br>
 💭 Building a Software Agency: Embarking on a new venture to revolutionize the tech landscape<br>
-👯 Collaborator's Call: I'm eager to work on **any project** that sparks innovation<br>
+👯 Collaborator's Call: I'm eager to work on any project that sparks innovation<br>
 👨‍💻 Digital Showcase: Explore my portfolio Projects at [My Projects](https://myportifolio-rho.vercel.app/)<br>
-- 💬 Inquire about my expertise: **Reactjs, Nodejs, Expressjs, Mongodb, React Native, SQL, Django, Python**<br>
-- 📫 Reach out to me: **anthonymomanyi92@gmail.com**<br>
+- 💬 Inquire about my expertise: Reactjs, Nodejs, Expressjs, Mongodb, React Native, SQL, Django, Python**<br>
+- 📫 Reach out to me: anthonymomanyi92@gmail.com<br>
 
 Venture further:
 - [LinkedIn](www.linkedin.com/in/anthony-momanyi-336735252)
