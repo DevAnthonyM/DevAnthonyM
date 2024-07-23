@@ -117,12 +117,12 @@ Venture further:
         ## 📊 Statistics  
   <!-- github status  -->
   <div>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=francisnjuguna&theme=2077" width="46%" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevAnthonyM&theme=2077" width="46%" />
     <br/>
     <br/>
       <br/>
     <br/>
-  <img align="right" src="https://streak-stats.demolab.com/?user=francisnjuguna&theme=dark&hide_border=true&theme=react" width="46%" />
+  <img align="right" src="https://streak-stats.demolab.com/?user=DevAnthonyM&theme=dark&hide_border=true&theme=react" width="46%" />
   </div>
   <br/>
   <br/>
@@ -136,7 +136,7 @@ Venture further:
   <div align="center">    
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francisnjuguna&theme=2077" style="height: 300px"  />                                 </div>                                             
 <h2 align="left">⚡Activity Graph:</h2>
-<a><img alt="Francis Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=francisnjuguna&theme=react-dark&hide_border=true" /></a>    
+<a><img alt="Anthony Momanyi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=francisnjuguna&theme=react-dark&hide_border=true" /></a>    
 <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=francisnjuguna&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
