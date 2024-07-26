@@ -22,14 +22,14 @@
 👩🏻‟🎓 Academic Roots: Studied IT at the esteemed University of DKUT, Kenya<br>
 🎨 Passion's Playground: Developing captivating projects, while indulging in wireframing, UI & UX design<br>
 💭 Building a Software Agency: Embarking on a new venture to revolutionize the tech landscape<br>
-👯 Collaborator's Call: I'm eager to work on any project that sparks innovation<br>
-👨‍💻 Digital Showcase: Explore my portfolio Projects at [My Projects](https://myportifolio-rho.vercel.app/)<br>
+👯 Collaborator's Call: I'm eager to work on any project that sparks in<br>
+👨‍💻 Digital Showcase: Explore my portfolio Projects at [My Projects](https://dev-anthony-momanyi-ri89.vercel.app/)
 - 💬 Inquire about my expertise: Reactjs, Nodejs, Expressjs, Mongodb, React Native, SQL, Django, Python**<br>
 - 📫 Reach out to me: anthonymomanyi92@gmail.com<br>
 
 Venture further:
 - [LinkedIn](www.linkedin.com/in/anthony-momanyi-336735252)
-- [My Website](https://myportifolio-rho.vercel.app/)
+- [My Website]([https://myportifolio-rho.vercel.app/](https://dev-anthony-momanyi-ri89.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
