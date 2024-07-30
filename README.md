@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://francisnjuguna.github.io)
 <h1 align="center">Hi 👋, I’m Anthony Momanyi, a Full Stack Web Developer.</h1>
 <h3 align="center">I Am A Passionate Full Stack Software Developer. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
-<p>Versatile and forward-thinking full-stack software architect with a proven track record in mobile and web application development, including robust automated testing protocols. Seeking to collaborate with a synergistic team that values effective communication and cohesive dynamics. Possessing a diverse portfolio of programming languages and frameworks, </p>
+<p>Versatile and forward-thinking full-stack software architect with a proven track record in mobile and web application development, including robust automated testing protocols. Seeking to collaborate with a synergistic team that values effective communication and cohesive dynamics. I also possess a diverse portfolio of programming languages and frameworks, As an advocate for open-source initiatives, I have both benefited from and contributed to the collaborative ecosystem that fosters knowledge dissemination and collective growth in the tech community. </p>
 
 <p align="left" style="max-width:40%">
  
