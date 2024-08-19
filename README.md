@@ -23,18 +23,18 @@
 🎨 Passion's Playground: Developing captivating projects, while indulging in wireframing, UI & UX design<br>
 💭 Building a Software Agency: Embarking on a new venture to revolutionize the tech landscape<br>
 👯 Collaborator's Call: I'm eager to work on any project that sparks in<br>
-👨‍💻 Digital Showcase: Explore my portfolio Projects at [My Projects](https://dev-anthony-momanyi-ri89.vercel.app/)
+👨‍💻 Digital Showcase: Explore my portfolio Projects at https://dev-anthony-momanyi.vercel.app/
 - 💬 Inquire about my expertise: Reactjs, Nodejs, Expressjs, Mongodb, React Native, SQL, Django, Python**<br>
 - 📫 Reach out to me: anthonymomanyi92@gmail.com<br>
 
 Venture further:
 - [LinkedIn](www.linkedin.com/in/anthony-momanyi-336735252)
-- [My Website]([https://myportifolio-rho.vercel.app/](https://dev-anthony-momanyi-ri89.vercel.app/))
+- [My Website](https://dev-anthony-momanyi.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/AnthonyM_254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lianrerlabs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anthony-momanyi-336735252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis-njuguna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anthony-momanyi-336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francis-njuguna" height="30" width="40" /></a>
 <a href="https://instagram.com/lianreelabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liperranqey" height="30" width="40" /></a>
 </p>
 
