@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anthonymomanyia&label=Profile%20views&color=0e75b6&style=flat" alt="francisnjuguna" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lianreelabs" target="blank"><img src="https://img.shields.io/twitter/follow/lianreelabs?logo=twitter&style=for-the-badge" alt="Lianreelabs" /></a> </p>
+<!--p align="left"> <a href="https://twitter.com/lianreelabs" target="blank"><img src="https://img.shields.io/twitter/follow/lianreelabs?logo=twitter&style=for-the-badge" alt="Lianreelabs" /></a> </p-->
 👩🏻‍💻 Innovative Tech Enthusiast: Crafting Digital Marvels<br>
 👩🏻‟🎓 Academic Roots: Studied IT at the esteemed University of DKUT, Kenya<br>
 🎨 Passion's Playground: Developing captivating projects, while indulging in wireframing, UI & UX design<br>
