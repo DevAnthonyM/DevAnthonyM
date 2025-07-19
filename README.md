@@ -29,7 +29,7 @@
 
 Venture further:
 - [LinkedIn](www.linkedin.com/in/anthony-momanyi-336735252)
-- [My Website](https://dev-anthony-momanyi.vercel.app)
+- [My Website](https://devanthonyportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
