@@ -23,7 +23,7 @@
 🎨 Passion's Playground: Developing captivating projects, while indulging in wireframing, UI & UX design<br>
 💭 Building a Software Agency: Embarking on a new venture to revolutionize the tech landscape<br>
 👯 Collaborator's Call: I'm eager to work on any project that sparks in<br>
-👨‍💻 Digital Showcase: Explore my portfolio Projects at https://dev-anthony-momanyi.vercel.app/
+👨‍💻 Digital Showcase: Explore my portfolio Projects at [https://dev-anthony-momanyi.vercel.app/](https://devanthonyportfolio.netlify.app/)
 - 💬 Inquire about my expertise: Reactjs, Nodejs, Expressjs, Mongodb, React Native, SQL, Django, Python**<br>
 - 📫 Reach out to me: anthonymomanyi92@gmail.com<br>
 
