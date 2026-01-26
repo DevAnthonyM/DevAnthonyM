@@ -153,7 +153,245 @@ Specialized in Node.js/TypeScript, Python, Java Spring Boot, and modern backend 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anthony Momanyi - GitHub Stats Card</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 40px;
+            background: #0d1117;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        }
+
+        .stats-card {
+            background: linear-gradient(135deg, #161b22 0%, #0d1117 100%);
+            border: 2px solid #30363d;
+            border-radius: 16px;
+            padding: 40px;
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 35px;
+            border-bottom: 2px solid #21262d;
+            padding-bottom: 25px;
+        }
+
+        .name {
+            font-size: 2.2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #58a6ff 0%, #1f6feb 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 8px;
+        }
+
+        .title {
+            color: #8b949e;
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 25px;
+            margin-bottom: 35px;
+        }
+
+        .stat-item {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 25px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .stat-item:hover {
+            border-color: #58a6ff;
+            transform: translateY(-5px);
+        }
+
+        .stat-icon {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .stat-value {
+            font-size: 2.8rem;
+            font-weight: 700;
+            color: #58a6ff;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            color: #8b949e;
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 500;
+        }
+
+        .achievements-section {
+            margin-top: 35px;
+            border-top: 2px solid #21262d;
+            padding-top: 25px;
+        }
+
+        .section-title {
+            color: #c9d1d9;
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .achievements-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+
+        .achievement-badge {
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .badge-icon {
+            font-size: 2rem;
+            margin-bottom: 8px;
+        }
+
+        .badge-text {
+            color: #c9d1d9;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+
+        .badge-subtext {
+            color: #8b949e;
+            font-size: 0.75rem;
+        }
+
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #8b949e;
+            font-size: 0.9rem;
+            padding-top: 20px;
+            border-top: 1px solid #21262d;
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .achievements-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-card">
+        <div class="header">
+            <div class="name">Anthony Momanyi</div>
+            <div class="title">Senior Software Engineer | 5+ Years Experience</div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-item">
+                <span class="stat-icon">📊</span>
+                <div class="stat-value">4,287</div>
+                <div class="stat-label">Total Contributions</div>
+            </div>
+
+            <div class="stat-item">
+                <span class="stat-icon">⭐</span>
+                <div class="stat-value">842</div>
+                <div class="stat-label">Total Stars</div>
+            </div>
+
+            <div class="stat-item">
+                <span class="stat-icon">📦</span>
+                <div class="stat-value">47</div>
+                <div class="stat-label">Public Repositories</div>
+            </div>
+
+            <div class="stat-item">
+                <span class="stat-icon">🔀</span>
+                <div class="stat-value">326</div>
+                <div class="stat-label">Pull Requests</div>
+            </div>
+        </div>
+
+        <div class="achievements-section">
+            <div class="section-title">🏆 Career Highlights</div>
+            <div class="achievements-grid">
+                <div class="achievement-badge">
+                    <div class="badge-icon">💰</div>
+                    <div class="badge-text">$2.1B+</div>
+                    <div class="badge-subtext">Processed Annually</div>
+                </div>
+
+                <div class="achievement-badge">
+                    <div class="badge-icon">🚀</div>
+                    <div class="badge-text">99.97%</div>
+                    <div class="badge-subtext">System Uptime</div>
+                </div>
+
+                <div class="achievement-badge">
+                    <div class="badge-icon">👥</div>
+                    <div class="badge-text">30M+</div>
+                    <div class="badge-subtext">Users Served</div>
+                </div>
+
+                <div class="achievement-badge">
+                    <div class="badge-icon">⚡</div>
+                    <div class="badge-text">65%</div>
+                    <div class="badge-subtext">Latency Reduced</div>
+                </div>
+
+                <div class="achievement-badge">
+                    <div class="badge-icon">🎓</div>
+                    <div class="badge-text">8 Certs</div>
+                    <div class="badge-subtext">AWS, GCP, K8s</div>
+                </div>
+
+                <div class="achievement-badge">
+                    <div class="badge-icon">🏆</div>
+                    <div class="badge-text">Google</div>
+                    <div class="badge-subtext">Alumni</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            github.com/DevAnthony | anthonymomanyi92@gmail.com
+        </div>
+    </div>
+</body>
+</html>
+
+<!--div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevAnthony&theme=2077" width="46%" />
   <img src="https://streak-stats.demolab.com/?user=DevAnthony&theme=dark&hide_border=true&theme=react" width="46%" />
 </div>
@@ -173,7 +411,7 @@ Specialized in Node.js/TypeScript, Python, Java Spring Boot, and modern backend 
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAnthony&theme=2077" />
-</div>
+</div-->
 
 ## 🏆 Key Achievements
 
