@@ -153,7 +153,7 @@ Specialized in Node.js/TypeScript, Python, Java Spring Boot, and modern backend 
 
 ## 📊 GitHub Statistics
 
-<!DOCTYPE html>
+<!--DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
