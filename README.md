@@ -91,7 +91,6 @@ Specialized in Node.js/TypeScript, Python, Java Spring Boot, and modern backend 
 ## 📫 Contact & Portfolio
 
 - 📧 **Email:** anthonymomanyi92@gmail.com
-- 💼 **Portfolio:** [devanthonyportfolio.netlify.app](https://devanthonyportfolio.netlify.app/)
 - 💻 **GitHub:** github.com/DevAnthony
 - 🌍 **Location:** Nairobi, Kenya (Available for remote work globally)
 
