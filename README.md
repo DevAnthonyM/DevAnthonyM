@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/DevAnthonyM)
 <h1 align="center">Hi 👋, I'm Anthony Momanyi</h1>
-<h3 align="center">Software Developer | PHP (CodeIgniter) & JavaScript Specialist | Full Stack Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
+<h3 align="center">Software Developer | TypEscript , Python & JavaScript Specialist | Full Stack Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
 
 <p align="center">
 Software Developer with 2+ years of experience designing, developing, and maintaining secure, scalable web applications using PHP (CodeIgniter) and JavaScript. Strong expertise in MVC architecture, RESTful API development, MySQL database design, and responsive front-end engineering. Passionate about writing clean, well-documented code and delivering high-quality solutions in Agile environments.
@@ -33,11 +33,11 @@ Experienced across the full stack — from architecting CodeIgniter backends and
 🔧 **Stack:** PHP (CodeIgniter) · JavaScript · MySQL · Node.js · REST APIs  
 🌐 **Frontend:** Angular · Vue.js · jQuery · React · HTML5/CSS3 · Tailwind  
 📦 **DevOps:** Git · Apache · Nginx · cPanel · Docker · CI/CD  
-🎓 **Education:** BSc Information Technology — Dedan Kimathi University of Technology  
+🎓 **Education:** BSc Computer Science — University of Nairobi 
 
 ## 💼 Professional Experience
 
-**Software Developer** @ TyBrite Labs (Aug 2024 – Present)  
+**Software Developer** @ TyBrite Labs  
 - Design, develop, and maintain web applications using **CodeIgniter (PHP)** and **JavaScript**, delivering efficient, secure, and scalable solutions following **MVC architecture** and **OOP** principles
 - Build and consume **RESTful APIs** for internal services and third-party integrations (M-Pesa, Stripe), enabling seamless data exchange across the platform
 - Collaborate with UI/UX designers to implement **responsive, user-friendly interfaces** using JavaScript, jQuery, Angular, and HTML5/CSS3
@@ -60,14 +60,14 @@ End-to-end company website with clear information architecture, compelling visua
 
 ## 🎓 Education
 
-🎓 **Bachelor of Science in Information Technology**  
-📍 Dedan Kimathi University of Technology (DeKUT) | Sept 2020 – Nov 2024 | Nyeri, Kenya  
+🎓 **Bachelor of Science in Computer Science **  
+📍 University of Nairobi) | Aug 2021 – Sep 2024 | Nyeri, Kenya  
 Specialisation: Computer & Information Sciences · Focus: Software Development, Web Applications & Database Systems
 
 ## 🛠️ Technical Expertise
 
 **Backend & Frameworks:**
-- **PHP:** CodeIgniter · Object-Oriented PHP · MVC Architecture
+- Object-Oriented PHP · MVC Architecture
 - **JavaScript/Node.js:** Express.js · NestJS · ES6+
 - **Python:** FastAPI
 - **APIs:** RESTful API Development · GraphQL · Third-Party Integration
