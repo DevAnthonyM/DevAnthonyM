@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | TypEscript , Python & JavaScript Specialist | Full Stack Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"></h3>
 
 <p align="center">
-Software Developer with 2+ years of experience designing, developing, and maintaining secure, scalable web applications using PHP (CodeIgniter) and JavaScript. Strong expertise in MVC architecture, RESTful API development, MySQL database design, and responsive front-end engineering. Passionate about writing clean, well-documented code and delivering high-quality solutions in Agile environments.
+Software Developer with 2+ years of experience designing, developing, and maintaining secure, scalable web applications using TypeScript ,Python and JavaScript. Strong expertise in MVC architecture, RESTful API development, MySQL database design, and responsive front-end engineering. Passionate about writing clean, well-documented code and delivering high-quality solutions in Agile environments.
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@ Experienced across the full stack — from architecting CodeIgniter backends and
 
 ## 👨‍💻 Professional Highlights
 
-🚀 **Current:** Software Developer @ TyBrite Labs (Nairobi, Kenya)  
-🔧 **Stack:** PHP (CodeIgniter) · JavaScript · MySQL · Node.js · REST APIs  
+🚀 **Current:** Software Developer @ DecisionPulse(Nairobi, Kenya)  
+🔧 **Stack:** TypeScript . Python · JavaScript · MySQL · Node.js · REST APIs  
 🌐 **Frontend:** Angular · Vue.js · jQuery · React · HTML5/CSS3 · Tailwind  
 📦 **DevOps:** Git · Apache · Nginx · cPanel · Docker · CI/CD  
 🎓 **Education:** BSc Computer Science — University of Nairobi 
