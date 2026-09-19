@@ -60,7 +60,7 @@ End-to-end company website with clear information architecture, compelling visua
 
 ## 🎓 Education
 
-🎓 **Bachelor of Science in Computer Science **  
+🎓 **Bachelor of Science in Information Technology **  
 📍 Dedan Kimathi University) | Aug 2021 – Sep 2024 | Nyeri, Kenya  
 Specialisation: Computer & Information Sciences · Focus: Software Development, Web Applications & Database Systems
 
