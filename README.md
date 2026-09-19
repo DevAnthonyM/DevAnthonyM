@@ -33,7 +33,7 @@ Experienced across the full stack — from architecting CodeIgniter backends and
 🔧 **Stack:** TypeScript . Python · JavaScript · MySQL · Node.js · REST APIs  
 🌐 **Frontend:** Angular · Vue.js · jQuery · React · HTML5/CSS3 · Tailwind  
 📦 **DevOps:** Git · Apache · Nginx · cPanel · Docker · CI/CD  
-🎓 **Education:** BSc Computer Science — University of Nairobi 
+🎓 **Education:** BSc Information Technology — Dedan Kimathi University 
 
 ## 💼 Professional Experience
 
@@ -61,7 +61,7 @@ End-to-end company website with clear information architecture, compelling visua
 ## 🎓 Education
 
 🎓 **Bachelor of Science in Computer Science **  
-📍 University of Nairobi) | Aug 2021 – Sep 2024 | Nyeri, Kenya  
+📍 Dedan Kimathi University) | Aug 2021 – Sep 2024 | Nyeri, Kenya  
 Specialisation: Computer & Information Sciences · Focus: Software Development, Web Applications & Database Systems
 
 ## 🛠️ Technical Expertise
